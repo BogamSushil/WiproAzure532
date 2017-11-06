@@ -13,7 +13,9 @@
 		</style>
 	</head>
 	<body class="b1" >
+		<div style="text-color:white">
 		<h1 style="text-align:center"> Web Application </h1>
 		<marquee> Microsoft Azure 523 </marquee>
+		</div>
 	</body>
 </html>
