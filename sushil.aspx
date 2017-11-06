@@ -13,7 +13,7 @@
 		</style>
 	</head>
 	<body class="b1" >
-		<h1 style="text-align:center"> Aspx Page</h1>
+		<h1 style="text-align:center"> Web Application </h1>
 		<marquee> Microsoft Azure 523 </marquee>
 	</body>
 </html>
